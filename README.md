@@ -16,7 +16,7 @@ The **Water-Saving Hand Wash Station** is a **mechanical system** where the wate
 - ✅ Water stops instantly when released.  
 - ✅ No electricity or batteries required.  
 
-![Hand Wash Station](.png)  
+![Hand Wash Station](IMG-20250907-WA0010.jpg)
 
 ---
 
